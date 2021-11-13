@@ -16,7 +16,7 @@ W tej pracy zajmę się kolorowaniem krawędziowym z użyciem algorytmu **NC** o
 
 # Opis wybranego algorytmu dokładnego
 
-Wybrany przeze mnie algorytm dokładny do NC. Polega on na wybieraniu dowolnej niepokolorowanej krawędzi i przypisywaniu jej zachłannie koloru innego niż kolory sąsiadujących z nią krawędzi. Jeśli takiego koloru brak wśród kolorów wykorzystanych należy dobrać nowy kolor
+Wybrany do implementacji algorytm dokładny to NC. Polega on na wybieraniu dowolnej niepokolorowanej krawędzi i przypisywaniu jej zachłannie koloru innego niż kolory sąsiadujących z nią krawędzi. Jeśli takiego koloru brak wśród kolorów wykorzystanych należy dobrać nowy kolor
 
 Algorytm ten ma złożoność pesymistyczną O(nΔ), gdzie n – liczba krawędzi, a Δ – stopień grafu, ponieważ algorytm przechodzi przez każdą krawędź i w najgorszym przypadku sprawdza kolory Δ krawędzi.
 
