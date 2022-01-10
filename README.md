@@ -169,7 +169,9 @@ Wyniki testów algorytmu NC:
 
 Wyniki testów algorytmu heurystycznego:
 
-## ![](RackMultipart20210823-4-1nujvfu_html_c5530e1fb41a3009.png) Dokładność algorytmów
+![image](https://user-images.githubusercontent.com/55836292/148752760-447f48a1-8818-4f47-8e29-f9003aeee653.png)
+ 
+## Dokładność algorytmów
 
 Z twierdzenia Vizinga [16] wynika, że indeks chromatyczny (liczba kolorów użytych do kolorowania) w optymalnym kolorowaniu krawędziowym spełnia nierówność:
 
