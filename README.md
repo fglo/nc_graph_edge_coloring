@@ -1,4 +1,4 @@
-# tal_graph_edge_coloring
+# NC Coloring Algorithm 
 
 # Opis problemu
 
